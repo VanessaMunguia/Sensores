@@ -30,9 +30,4 @@
 
 # PRUEBAS
 
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
-
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
-
 # CONCLUSIONES
-_esta es conclusión_
